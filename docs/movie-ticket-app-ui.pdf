@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 390 820] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 220 >>
+stream
+q
+0 0 390 820 re
+f
+Q
+q
+0.06 0.09 0.15 rg
+0 0 390 820 re
+f
+Q
+BT
+/F1 24 Tf
+20 780 Td
+(TicketX) Tj
+ET
+BT
+/F1 16 Tf
+30 700 Td
+(Welcome to TicketX) Tj
+ET
+BT
+/F1 12 Tf
+30 670 Td
+(Team: CSK  MI  RCB  SRH  GT) Tj
+ET
+BT
+/F1 12 Tf
+30 640 Td
+(Show Timings: 10:30 AM, 1:45 PM) Tj
+ET
+BT
+/F1 12 Tf
+30 610 Td
+(Seat Selection and Checkout) Tj
+ET
+BT
+/F1 12 Tf
+30 580 Td
+(Booking Confirmed) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000120 00000 n 
+0000000245 00000 n 
+0000000390 00000 n 
+0000000450 00000 n 
+trailer
+<< /Root 1 0 R /Size 6 >>
+startxref
+500
+%%EOF
